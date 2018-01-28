@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/op_open.png</file>
+        <file>res/icons/op_peek.png</file>
+        <file>res/icons/op_save.png</file>
+        <file>res/icons/view_all.png</file>
+        <file>res/icons/view_main.png</file>
+        <file>res/icons/param.png</file>
+        <file>res/icons/help.png</file>
+    </qresource>
+</RCC>
